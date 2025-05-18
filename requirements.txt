@@ -1,0 +1,6 @@
+python-telegram-bot[job-queue]
+feedparser
+beautifulsoup4
+requests
+psycopg2-binary
+python-dotenv
